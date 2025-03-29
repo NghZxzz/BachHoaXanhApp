@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225535596259",
+    "project_id": "appbachhoaxanh-717f4",
+    "storage_bucket": "appbachhoaxanh-717f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225535596259:android:250cf0251b059ac4cfd7d6",
+        "android_client_info": {
+          "package_name": "com.example.doanbachhoaxanh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
